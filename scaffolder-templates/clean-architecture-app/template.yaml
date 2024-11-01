@@ -4,7 +4,7 @@ kind: Template
 metadata:
   name: scaffold-bancolombia-java
   title: Clean Architecture Java Template
-  description: Template for the scaffolder that creates a clean architecture project java. More information: https://github.com/bancolombia/scaffold-clean-architecture
+  description: Template for the scaffolder that creates a clean architecture project java. More information https://github.com/bancolombia/scaffold-clean-architecture
   tags:
     - recommended
     - java
